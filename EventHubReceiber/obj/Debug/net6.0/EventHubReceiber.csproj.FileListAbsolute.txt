@@ -1,0 +1,81 @@
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.exe
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.deps.json
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.runtimeconfig.json
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.pdb
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Messaging.EventHubs.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Messaging.EventHubs.Processor.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.AssemblyInfo.cs
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.csproj.CopyComplete
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\refint\EventHubReceiber.dll
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.pdb
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.genruntimeconfig.cache
+C:\Users\acer\Desktop\Practiva EventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\ref\EventHubReceiber.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.exe
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.deps.json
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.runtimeconfig.json
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.pdb
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Messaging.EventHubs.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Messaging.EventHubs.Processor.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.AssemblyInfo.cs
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.csproj.CopyComplete
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\refint\EventHubReceiber.dll
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.pdb
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.genruntimeconfig.cache
+C:\Users\acer\Desktop\PracticaEventHub\EventHubsQuickStart\EventHubReceiber\obj\Debug\net6.0\ref\EventHubReceiber.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.exe
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.deps.json
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.runtimeconfig.json
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\EventHubReceiber.pdb
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\Azure.Messaging.EventHubs.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\Azure.Messaging.EventHubs.Processor.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.AssemblyInfo.cs
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.csproj.CopyComplete
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\refint\EventHubReceiber.dll
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.pdb
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\EventHubReceiber.genruntimeconfig.cache
+C:\Users\acer\Desktop\ExampleEventHub\EventHubReceiber\obj\Debug\net6.0\ref\EventHubReceiber.dll
